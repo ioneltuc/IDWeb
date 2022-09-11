@@ -1,0 +1,10 @@
+C: ac7d20b
+C++: 154a3f2
+C#: b7104c1
+GO: 498f85b
+Java: 6b5891e
+JS: 97ee4ae
+Kotlin: 4ef2abf
+PHP: 5752483
+Python: a126e7f
+Swift: 855a9f0
